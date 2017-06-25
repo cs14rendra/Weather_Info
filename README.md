@@ -26,3 +26,7 @@ ScreenShots-
   ![alt text](http://www.euphoriaconsultingllc.com/wp-content/uploads/2016/07/Euphoria-testing_services.png)
   ![alt text](http://www.euphoriaconsultingllc.com/wp-content/uploads/2016/07/Euphoria-testing_services.png)
 </p>
+<p align="center">
+  <img src="http://www.euphoriaconsultingllc.com/wp-content/uploads/2016/07/Euphoria-testing_services.png" width="350"/>
+  <img src="http://www.euphoriaconsultingllc.com/wp-content/uploads/2016/07/Euphoria-testing_services.png" width="350"/>
+</p>
