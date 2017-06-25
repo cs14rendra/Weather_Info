@@ -19,4 +19,10 @@ The following third party library and icon i have used in my project
 
 Platform -
 developed using xcode 8.3.3
-![alt text](http://www.euphoriaconsultingllc.com/wp-content/uploads/2016/07/Euphoria-testing_services.png)
+
+ScreenShots-
+
+<p align="center">
+  ![alt text](https://www.dropbox.com/s/noaws74xpm1api3/IMG_0007.PNG?dl=0)
+  ![alt text](https://www.dropbox.com/s/plel2n910d75acz/IMG_0006.PNG?dl=0)
+</p>
