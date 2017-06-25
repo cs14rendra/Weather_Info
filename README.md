@@ -16,3 +16,6 @@ Credits:
 The following third party library and icon i have used in my project 
 1.https://github.com/rs/SDWebImage
 2. icon from https://icons8.com
+
+Platform -
+developed using xcode 8.3.3
