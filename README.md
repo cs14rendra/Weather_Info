@@ -24,5 +24,5 @@ ScreenShots-
 
 <p align="center">
   <img src="http://i.imgur.com/D6RRoZP.png" width="350"/>
-  <img src="http://i.imgur.com/qzojngc.png" width="350"/>
+  <img src="http://i.imgur.com/tRLo6W5.png" width="350"/>
 </p>
