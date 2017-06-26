@@ -90,7 +90,7 @@ class WeatherCollectionViewCell: UICollectionViewCell {
         let myDate = stringToDate(dateString)
         let weekday = Calendar.current.component(.weekday, from: myDate!)
         let f = DateFormatter()
-        let weekdayString = f.weekdaySymbols[weekday]
+        let weekdayString = f.weekdaySymbols[weekday-1]
         
         
         let month = Calendar.current.component(.month, from: myDate!)
