@@ -24,6 +24,7 @@ The following third party library and icon i have used in my project
 
 Platform -
 developed using xcode 8.3.3
+pod version 1.1.1
 
 ScreenShots-
 
