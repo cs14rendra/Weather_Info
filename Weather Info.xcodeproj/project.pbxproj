@@ -127,7 +127,7 @@
 		ED5DCD531EFE8D0F00F0434B = {
 			isa = PBXGroup;
 			children = (
-				EDF4DB621F002FC800EA5F62 /* Image */,
+				EDF4DB621F002FC800EA5F62 /* ScreenShots */,
 				ED5DCD5E1EFE8D0F00F0434B /* Weather Info */,
 				ED5DCD731EFE8D0F00F0434B /* Weather InfoTests */,
 				ED5DCD7E1EFE8D0F00F0434B /* Weather InfoUITests */,
@@ -219,12 +219,13 @@
 			name = Model;
 			sourceTree = "<group>";
 		};
-		EDF4DB621F002FC800EA5F62 /* Image */ = {
+		EDF4DB621F002FC800EA5F62 /* ScreenShots */ = {
 			isa = PBXGroup;
 			children = (
 				EDF4DB631F002FC800EA5F62 /* IMG_0006.PNG */,
 				EDF4DB641F002FC800EA5F62 /* IMG_0007.PNG */,
 			);
+			name = ScreenShots;
 			path = Image;
 			sourceTree = "<group>";
 		};

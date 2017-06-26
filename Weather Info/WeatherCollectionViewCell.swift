@@ -152,6 +152,8 @@ extension UIView{
         let shape = CAShapeLayer()
         shape.path = maskPath.cgPath
         self.layer.mask = shape
+       DrawMask(n: self.superview!)
+        
         }
     
     func DrawMasktwo(){
@@ -162,5 +164,41 @@ extension UIView{
         let shape = CAShapeLayer()
         shape.path = maskPath.cgPath
         self.layer.mask = shape
+        DrawMask(n: self.superview!)
         }
+    
+    
+        func DrawMask(n : UIView){
+            
+    
+            // create new layer and apply Shadow to it
+            let shadowLayer = CALayer()
+            shadowLayer.masksToBounds = false
+            shadowLayer.shadowRadius = 5.0
+            shadowLayer.shadowOffset = .zero
+            shadowLayer.shadowOpacity = 1.0
+            
+            // To chache the rendered shado 
+            // otherwise Drwaing will make App slow
+            shadowLayer.shouldRasterize = true
+            // add this layer to superView
+            // add ur layer in layer again
+            
+            // Turn off it if view is a BUTTON
+            self.removeFromSuperview()
+            n.layer.insertSublayer(shadowLayer, at: 0)
+            shadowLayer.insertSublayer(self.layer, at: 0)
+            // add this new layer to superView
+            
+            //    yourlayer
+            //    newLayer
+            //    superViewLayer
+            
+            
+            
+            
+            
+        }
+        
+
 }
