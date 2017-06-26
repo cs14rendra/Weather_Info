@@ -1,6 +1,11 @@
 # Weather_Info
 Weather App by using OpenWeatherMap, Google Map 
 
+To run project -
+1. clone the repo
+2. run "pod install" in project directory
+3. open "Weather Info.xcworkspace"
+
 This is Weather Map App which fetch location from openWeatherMap API on Current User Location.
 
 App is having following feature :
@@ -24,5 +29,5 @@ ScreenShots-
 
 <p align="center">
   <img src="http://i.imgur.com/D6RRoZP.png" width="350"/>
-  <img src="http://i.imgur.com/HGbPJD0.png" width="350"/>
+  <img src="http://i.imgur.com/WWehtXb.png" width="350"/>
 </p>
