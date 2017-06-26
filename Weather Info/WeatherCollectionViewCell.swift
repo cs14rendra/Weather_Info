@@ -94,7 +94,7 @@ class WeatherCollectionViewCell: UICollectionViewCell {
         
         
         let month = Calendar.current.component(.month, from: myDate!)
-        let monthString = f.monthSymbols[month]
+        let monthString = f.monthSymbols[month-1]
         let day = Calendar.current.component(.day, from: myDate!)
         
         self.date_month.text = "\(monthString)  \(day)"
